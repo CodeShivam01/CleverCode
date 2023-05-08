@@ -1,0 +1,49 @@
+/* ==================================NavbarCss Start Here===================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap');
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 0px 10px #FF731D;
+    /* background-color: black; */
+    height: 10vh;
+    font-family: 'Rubik', sans-serif;
+    position: sticky;
+    top: 0;
+}
+.brandIcon{
+    width: 16%;
+}
+.brandIcon img{ align-items: center;
+    margin-top: 12px;
+}
+.brandIcon h2{ 
+    color: #FF731D;
+    font-size: 1.8rem;
+}
+.navLinks ul ,.brandIcon{ 
+    display: flex;
+    /* border: 1px solid red; */
+}
+.navLinks ul li{ 
+    margin: 0 20px;
+}
+.navLinks ul li a{ 
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+}
+
+
+.btn{
+    font-size: 14px;
+    padding: 8px 28px;
+    border: 1px solid #FF731D;
+    border-radius: 5px;
+    margin: 0 20px;
+    color: black;
+}
+.p-bg{
+    background-color: #FF731D;
+    color: white;
+}
