@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <div className="fsection">
         <div className="brandSection">
-          <img src={Brand} alt="CleverCode" width={70} height={70} />
+          <img src={Brand} alt="CleverCode"  />
           <h3>Ultimate Platform for Developer.</h3>
         </div>
         <div className="vertiDiv"></div>
@@ -22,9 +22,7 @@ const Footer = () => {
             <li>
               <a href="#link">Contact</a>
             </li>
-            <li>
-              <a href="#link">Contact</a>
-            </li>
+            
           </ul>
         </div>
         <div className="vertiDiv"></div>

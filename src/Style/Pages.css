@@ -43,3 +43,76 @@
     line-height: 10px;
     color: rgb(67, 65, 65);
 }
+
+
+/* --------------Feature Section Css Start Here------------------- */
+
+.Feature{
+    height: 80vh;
+    background: rgb(255, 252, 247);
+    padding: 60px;
+}
+.SectionHeading{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.FeatureBrand{
+    color: #FF731D;
+    font-size: 2.1rem;
+}
+.FeatureSection{
+    /* justify-content: space-between; */
+    display: flex;
+    width: 80%;
+    /* align-items: center; */
+    margin-left: 140px;
+    /* border: 1px solid #FF731D; */
+    height: 60vh;
+}
+.FeatureCard{
+    width: 40%;
+    height: 40vh;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    box-shadow: 0px 1px 6px #ff741d96;
+    transition: all ease-in-out 0.5s;
+    position: relative;
+    top: 0px;
+    
+}
+.FeatureCard:hover{
+    width: 40%;
+    height: 60vh;
+    border-radius: 5px;
+    background: #ff741df1;
+    margin: 10px;
+    box-shadow: 0px 1px 6px #ff741d96;
+    transition: all ease-in-out 0.5s;
+    /* transform: translateY(70px); */
+    
+}
+.FeatureCard:hover .CardText{
+    transition: all ease-in-out 0.8s;
+    display: block;
+}
+.CardImg {
+    height: 30vh;
+
+}
+.CardImg img{
+    height: 30vh;
+    width: 80%;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.CardText{
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    padding: 20px;
+    text-align: justify;
+    display: none;
+}
