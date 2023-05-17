@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Home from "./Pages/Home"
+
 // import Social from './Component/Social';
 import './App.css';
 

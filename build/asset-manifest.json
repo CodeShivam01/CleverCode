@@ -1,8 +1,12 @@
 {
-  "main.css": "static/css/main.2237b0cb.css",
-  "main.css.map": "static/css/main.2237b0cb.css.map",
-  "main.js": "static/js/main.5fe8b72d.js",
-  "main.js.map": "static/js/main.5fe8b72d.js.map",
-  "static\\media\\Brand.png": "static/media/Brand.694d8d62.png",
+  "main.css": "static/css/main.2aa1aaaf.css",
+  "main.css.map": "static/css/main.2aa1aaaf.css.map",
+  "main.js": "static/js/main.4049048d.js",
+  "main.js.map": "static/js/main.4049048d.js.map",
+  "static\\media\\Brand.png": "static/media/Brand.ec2dd424.png",
+  "static\\media\\Challenge.svg": "static/media/Challenge.e5d43237.svg",
+  "static\\media\\Learning.svg": "static/media/Learning.fb277903.svg",
+  "static\\media\\Review.svg": "static/media/Review.5995370f.svg",
+  "static\\media\\Shared.svg": "static/media/Shared.3dc68132.svg",
   "static\\media\\Sprinkle.svg": "static/media/Sprinkle.fbc3e094.svg"
 }
